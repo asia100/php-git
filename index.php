@@ -5,6 +5,7 @@
 	<title>Document</title>
 </head>
 <body>
+	<h1>asia wang</h1>
 	<?php echo 'asia wang'; ?>
 </body>
 </html>
